@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.esas_qutu{
+    width: 100%;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+    padding: 7%;
+    background-color: rgb(230, 196, 220);
+
+}
+
+.esas_qutu div{
+    width: 350px;
+    height: 450px;
+    background-color: rgb(236, 243, 232);
+    border-radius: 30px;
+    text-align: center;
+}
+
+
+p,button{
+    margin-top: 30px; 
+    
+}
+h1{
+    font-size: 45px;
+}
